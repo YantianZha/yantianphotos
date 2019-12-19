@@ -245,7 +245,7 @@ PLATFORMS
 
 DEPENDENCIES
   exifr
-  github-pages (~> 203)
+  github-pages
   i18n
   jekyll (~> 3.8.5)
   jekyll-gallery-generator

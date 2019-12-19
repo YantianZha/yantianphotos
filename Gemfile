@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source 'https://rubygems.org'
+gem 'github-pages'
 
 git_source(:github) {|repo_name| "https://github.com/yantianphotos" }
 
@@ -26,5 +27,5 @@ gem 'jekyll-gallery-generator'
 # https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
 # https://pages.github.com/versions/
 # apt-get install ruby-dev
-gem "github-pages", "~> 203", group: :jekyll_plugins
+#gem "github-pages", "~> 203", group: :jekyll_plugins
 

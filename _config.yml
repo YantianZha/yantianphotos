@@ -21,3 +21,8 @@ gallery:
     with_info:
       info:
         desc: "Gallery Description" # Info fields can be used in custom templates.
+
+
+url: https://yantianzha.github.io
+
+baseurl: /yantianphotos

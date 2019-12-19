@@ -21,8 +21,10 @@ gem 'rmagick'
 
 gem 'i18n'
 
+gem 'rubyzip'
+
 # https://github.com/ggreer/jekyll-gallery-generator
-gem 'jekyll-gallery-generator'
+# gem 'jekyll-gallery-generator'
 
 # https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
 # https://pages.github.com/versions/

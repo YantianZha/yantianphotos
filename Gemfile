@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 gem 'github-pages'
 
-git_source(:github) {|repo_name| "https://github.com/yantianphotos" }
+# git_source(:github) {|repo_name| "https://github.com/yantianphotos" }
 
 # gem "rails"
 

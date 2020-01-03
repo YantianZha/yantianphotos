@@ -46,6 +46,8 @@ gallery:
   galleries:
     AAAI19_Honolulu_Hawaii:
       best_image: IMG_20190130_215716.jpg  # The image to show on the gallery index page. Defaults to the last image.
+    AAMAS18_Stockholm_Sweden:
+      best_image: IMG_20180715_191846.jpg  # The image to show on the gallery index page. Defaults to the last image.
          # Don't show this gallery on the index page. People must guess the URL.
     with_info:
       info:

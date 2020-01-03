@@ -1,0 +1,2 @@
+---
+layout: gallery_page

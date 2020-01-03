@@ -24,14 +24,6 @@ url: "https://yantianzha.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-  # https://github.com/ggreer/jekyll-gallery-generator
-  - jekyll-gallery-generator
-
 gallery:
   dir: photos               # Path to the gallery
   symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
@@ -52,6 +44,16 @@ gallery:
     with_info:
       info:
         desc: "Gallery Description" # Info fields can be used in custom templates.
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  # https://github.com/ggreer/jekyll-gallery-generator
+  - jekyll-gallery-generator
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -40,5 +40,9 @@ gem 'rmagick'
 
 gem 'i18n'
 
+gem "mini_magick"
+
+# gem  "jekyll-image-tag"
+
 # https://github.com/ggreer/jekyll-gallery-generator
-gem 'jekyll-gallery-generator'
+# gem 'jekyll-gallery-generator'

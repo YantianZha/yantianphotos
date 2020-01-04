@@ -2,7 +2,7 @@
  title: AAAI19 Trip at Honolulu, Hawaii
  directory: AAAI19_Honolulu_Hawaii
  preview:
-  filename: IMG_20190130_215716.jp-3648x2736
+  filename: IMG_20190130_215716.jp
   original: IMG_20190130_215716.jp-3648x2736.jpg
   sizes:
   - IMG_20190130_215716.jp-3648x2736.jpg
@@ -11,8 +11,17 @@
  title: AAMAS18 Trip at Stockholm, Sweden
  directory: AAMAS18_Stockholm_Sweden
  preview:
-  filename: IMG_20180715_191846.jp-3648x2736
+  filename: IMG_20180715_191846.jp
   original: IMG_20180715_191846.jp-3648x2736.jpg
   sizes:
   - IMG_20180715_191846.jp-3648x2736.jpg
   thumbnail: IMG_20180715_191846.jp-3648x2736.jpg
+-
+ title: XXX Trip at XXX
+ directory: XXX
+ preview:
+  filename: Lichtfestival-0003
+  original: Lichtfestival-0003-2121x1414.jpg
+  sizes:
+  - Lichtfestival-0003-2121x1414.jpg
+  thumbnail: Lichtfestival-0003-2121x1414.jpg

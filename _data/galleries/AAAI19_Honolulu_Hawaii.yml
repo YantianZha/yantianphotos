@@ -1,17 +1,46 @@
 picture_path: AAAI19_Honolulu_Hawaii
 pictures:
-- filename: IMG_20190130_215716.jp
-  original: IMG_20190130_215716.jp-3648x2736.jpg
-  sizes: 
-  - IMG_20190130_215716.jp-3648x2736.jpg
-  thumbnail: IMG_20190130_215716.jp-3648x2736.jpg
-- filename: IMG_20190203_120921.jp
-  original: IMG_20190203_120921.jp-7296x5472.jpg
-  sizes: 
-  - IMG_20190203_120921.jp-7296x5472.jpg
-  thumbnail: IMG_20190203_120921.jp-7296x5472.jpg
+- filename: IMG_20190127_064326.jp
+  original: IMG_20190127_064326.jp-3648x2736.jpg
+  sizes: []
+  thumbnail: IMG_20190127_064326.jp-3648x2736.jpg
+- filename: IMG_20190127_181025.jp
+  original: IMG_20190127_181025.jp-3648x2736.jpg
+  sizes: []
+  thumbnail: IMG_20190127_181025.jp-3648x2736.jpg
 - filename: IMG_20190203_111611.jp
   original: IMG_20190203_111611.jp-3648x2736.jpg
-  sizes: 
-  - IMG_20190203_111611.jp-3648x2736.jpg
+  sizes: []
   thumbnail: IMG_20190203_111611.jp-3648x2736.jpg
+- filename: IMG_20190203_120458.jp
+  original: IMG_20190203_120458.jp-2736x3648.jpg
+  sizes: []
+  thumbnail: IMG_20190203_120458.jp-2736x3648.jpg
+- filename: IMG_20190203_110627.jp
+  original: IMG_20190203_110627.jp-7296x5472.jpg
+  sizes: []
+  thumbnail: IMG_20190203_110627.jp-7296x5472.jpg
+- filename: IMG_20190203_132203.jp
+  original: IMG_20190203_132203.jp-7296x5472.jpg
+  sizes: []
+  thumbnail: IMG_20190203_132203.jp-7296x5472.jpg
+- filename: IMG_20190130_215716.jp
+  original: IMG_20190130_215716.jp-3648x2736.jpg
+  sizes: []
+  thumbnail: IMG_20190130_215716.jp-3648x2736.jpg
+- filename: IMG_20190203_121639.jp
+  original: IMG_20190203_121639.jp-3648x2736.jpg
+  sizes: []
+  thumbnail: IMG_20190203_121639.jp-3648x2736.jpg
+- filename: IMG_20190202_132131.jp
+  original: IMG_20190202_132131.jp-3648x2736.jpg
+  sizes: []
+  thumbnail: IMG_20190202_132131.jp-3648x2736.jpg
+- filename: IMG_20190203_120921.jp
+  original: IMG_20190203_120921.jp-7296x5472.jpg
+  sizes: []
+  thumbnail: IMG_20190203_120921.jp-7296x5472.jpg
+- filename: IMG_20190203_120219.jp
+  original: IMG_20190203_120219.jp-3648x2736.jpg
+  sizes: []
+  thumbnail: IMG_20190203_120219.jp-3648x2736.jpg

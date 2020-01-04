@@ -1,0 +1,17 @@
+picture_path: AAAI19_Honolulu_Hawaii
+pictures:
+- filename: IMG_20190130_215716.jp
+  original: IMG_20190130_215716.jp-3648x2736.jpg
+  sizes: 
+  - IMG_20190130_215716.jp-3648x2736.jpg
+  thumbnail: IMG_20190130_215716.jp-3648x2736.jpg
+- filename: IMG_20190203_120921.jp
+  original: IMG_20190203_120921.jp-7296x5472.jpg
+  sizes: 
+  - IMG_20190203_120921.jp-7296x5472.jpg
+  thumbnail: IMG_20190203_120921.jp-7296x5472.jpg
+- filename: IMG_20190203_111611.jp
+  original: IMG_20190203_111611.jp-3648x2736.jpg
+  sizes: 
+  - IMG_20190203_111611.jp-3648x2736.jpg
+  thumbnail: IMG_20190203_111611.jp-3648x2736.jpg

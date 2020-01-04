@@ -1,23 +1,18 @@
 -
- title: A Very Basic Example Gallery
- directory: san-francisco
+ title: AAAI19 Trip at Honolulu, Hawaii
+ directory: AAAI19_Honolulu_Hawaii
  preview:
-  filename: VS-2012-6088
-  original: VS-2012-6088-6000x4000.jpg
+  filename: IMG_20190130_215716.jp-3648x2736
+  original: IMG_20190130_215716.jp-3648x2736.jpg
   sizes:
-  - VS-2012-6088-4242x2828.jpg
-  - VS-2012-6088-2121x1414.jpg
-  - VS-2012-6088-2999x1999.jpg
-  thumbnail: VS-2012-6088-thumbnail.jpg
+  - IMG_20190130_215716.jp-3648x2736.jpg
+  thumbnail: IMG_20190130_215716.jp-3648x2736.jpg
 -
- title: A More Complicated Example Gallery
- directory: ghent-light-festival
- picture_path: ghent-light-festival/part1
+ title: AAMAS18 Trip at Stockholm, Sweden
+ directory: AAMAS18_Stockholm_Sweden
  preview:
-  filename: Lichtfestival-0058
-  original: Lichtfestival-0058-6000x4000.jpg
+  filename: IMG_20180715_191846.jp-3648x2736
+  original: IMG_20180715_191846.jp-3648x2736.jpg
   sizes:
-  - Lichtfestival-0058-2121x1414.jpg
-  - Lichtfestival-0058-2999x1999.jpg
-  - Lichtfestival-0058-4242x2828.jpg
-  thumbnail: Lichtfestival-0058-thumbnail.jpg
+  - IMG_20180715_191846.jp-3648x2736.jpg
+  thumbnail: IMG_20180715_191846.jp-3648x2736.jpg

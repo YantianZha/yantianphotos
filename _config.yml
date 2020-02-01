@@ -22,6 +22,6 @@ defaults:
     scope:
       path: "photography"
     values:
-      permalink: https://yantianzha.github.io/ #/:path/:basename:output_ext
+      permalink: /:path/:basename:output_ext
 
 exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]
